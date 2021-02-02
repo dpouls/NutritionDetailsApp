@@ -8,6 +8,7 @@ namespace NutritionApp
 {
     public class Food
     {
+        //creates all the properties
         private string _food;
         private string _calcium;
         private string _serving_size;
@@ -36,7 +37,10 @@ namespace NutritionApp
         private string _vit_b;
         private string _vit_c;
         private string _food_type;
-
+        /// <summary>
+        /// constructor to create all the variables that you find in this class each time you instantiate the class.
+        /// </summary>
+        /// <param name="foodArray"></param>
         public Food(string[] foodArray)
         {
             FoodName = foodArray[0];

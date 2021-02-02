@@ -59,7 +59,11 @@ namespace NutritionApp
 
 
         }
-
+        /// <summary>
+        /// closes the modal
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void BtnClose_Click(object sender, RoutedEventArgs e)
         {
             Close();

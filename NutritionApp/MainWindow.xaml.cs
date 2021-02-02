@@ -54,7 +54,7 @@ namespace NutritionApp
             
         }
         /// <summary>
-        /// 
+        /// Input validation, sets the selected item and sees if it's in the dictionary. Fetches the data from the dictionary and creates an instance of the FoodDetailsWindow as a modal with the selected food. 
         /// </summary>
         /// <param name="sender"></param>
         /// <param name="e"></param>
