@@ -1,0 +1,17 @@
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp.csprojAssemblyReference.cache
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\MainWindow.g.cs
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\App.g.cs
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp_MarkupCompile.cache
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp_MarkupCompile.lref
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\bin\Debug\NutritionApp.exe.config
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\bin\Debug\NutritionApp.exe
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\bin\Debug\NutritionApp.pdb
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\FoodDetailsWindow.g.cs
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\FoodDetailsWindow.baml
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\MainWindow.baml
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp.g.resources
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp.Properties.Resources.resources
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp.csproj.GenerateResource.cache
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp.csproj.CoreCompileInputs.cache
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp.exe
+C:\Users\dalli\source\repos\NutritionApp\NutritionApp\obj\Debug\NutritionApp.pdb
